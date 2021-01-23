@@ -26,6 +26,7 @@ body {
   margin: 15px 0px;
 }
 #img-div {
+  margin: 0 auto;
   width: 90vw;
   background-color: #FFF;
   padding: 10px;
