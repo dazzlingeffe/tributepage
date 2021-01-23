@@ -31,7 +31,10 @@ body {
   padding: 10px;
 }
 #image {
+  display: block;
+  margin: 0 auto;
   width: inherit;
+  max-width: 500px;
 }
 #img-caption {
   font-size: 1.6rem;
